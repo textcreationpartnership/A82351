@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for confirmation of judicial proceedings</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82351</idno>
+            <idno type="STC">Wing E1005</idno>
+            <idno type="STC">Thomason E1075_12</idno>
+            <idno type="STC">ESTC R208493</idno>
+            <idno type="EEBO-CITATION">99867439</idno>
+            <idno type="PROQUEST">99867439</idno>
+            <idno type="VID">119750</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82351)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119750)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 160:E1075[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for confirmation of judicial proceedings</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 9 [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Bill and Christopher Barker, Printers to the Kings most Excellent Majesty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from general title page.</note>
+                  <note>At head of caption: Anno xii. Caroli II. Regis.</note>
+                  <note>Signatures: A-C² .</note>
+                  <note>Last word of first line of text: 'enacted'; first word of line below initial: 'proclamations'; last word of last full line of text of first page: 'of'.</note>
+                  <note>Issued with a general title page: 'Regis Angliæ, Scotiæ, Franciæ, &amp; Hiberniæ, duodecimo. At the Parliament begun at Westminster, the five and twentieth day of April, an. Dom. 1660.'</note>
+                  <note>Annotation on Thomason copy: "Aug 31".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Courts --  England --  Early works to 1800.</term>
+               <term>Justice, Administration of --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119750:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 67 -->
+            <p>Anno Regni CAROLI II. REGIS <hi>Angliae, Scotiae, Franciae,</hi> &amp; <hi>Hiberniae,</hi> DUODECIMO.</p>
+            <p>At the Parliament begun at <hi>VVeſtminſter,</hi> the Five and twentieth day of <hi>April, An. Dom.</hi> 1660.</p>
+            <p>In the Twelfth year of the Reign of our moſt Gra<g ref="char:EOLhyphen"/>cious Sovereign Lord CHARLES, By the Grace of God, of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> King, Defender of the Faith, <hi>&amp;c.</hi>
+            </p>
+            <figure>
+               <q>HONI SOIT QVI MAL Y PENSE.</q>
+               <figDesc>royal blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Bill</hi> and <hi>Chriſtopher Barker,</hi> Printers to the Kings moſt Excellent Majeſty, 1660.</p>
+            <p>Cum Privilegio. <date>
+                  <add>Aug 31</add>
+               </date>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:119750:2"/>
+            <!-- PDF PAGE 68 -->
+            <pb n="1" facs="tcp:119750:2"/>
+            <!-- PDF PAGE 68 -->
+            <opener>
+               <dateline>
+                  <date>Anno XII. CAROLI II. Regis.</date>
+               </dateline>
+            </opener>
+            <head>AN ACT For Confirmation of Judicial Proceedings.</head>
+            <p>
+               <seg rend="decorInit">B</seg>E it Enacted, and it is Enacted by His Majeſty, and the Lords and Commons in Parliament aſ<g ref="char:EOLhyphen"/>ſembled, and by the Authority of the ſame, That no Fines, nor fi<g ref="char:EOLhyphen"/>nal Concords, Chirographs, nor Proclamations of Fines, nor any Recoveries, Verdicts, Iudgements, Statutes, Recogni<g ref="char:EOLhyphen"/>zances, nor Inrolments of any Deeds or Wills, or of any ſuch Fines, Proclamations, Recove<g ref="char:EOLhyphen"/>ries, Verdicts, Iudgements, Statutes, or Re<g ref="char:EOLhyphen"/>cognizances, nor any Exemplifications of them, nor any of them, nor any Inquiſitions, Indict<g ref="char:EOLhyphen"/>ments, Preſentments, Informations, Decrees, Sentences, Probats of Will, nor Letters of
+<pb n="2" facs="tcp:119750:3"/>
+               <!-- PDF PAGE 69 -->Adminiſtration, nor any Writs nor Actings on, or Returns of Writs, Orders, or other Pro<g ref="char:EOLhyphen"/>ceedings in Law or Equity, had, made, given, taken, or done, or depending in the Courts of Chancery, Kings Bench, Vpper Bench, Com<g ref="char:EOLhyphen"/>mon Pleas, and Court of Exchequer, and Courts of Exchequer-Chamber, or any of them Sitting at <hi>Weſtminſter,</hi> or in the Courts of the Great Seſſions in <hi>Wales,</hi> the Courts of any Counties Palatine, or Duchy of <hi>Lancaſter,</hi> or Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> or in any other inferior Courts of Law or Equity; or by any the Iudges, Clerks, Officers, Sheriffs, Co<g ref="char:EOLhyphen"/>roners or Miniſters, or others, Acting in Obe<g ref="char:EOLhyphen"/>dience to them, or any of them, or by any the Coutts of Admiralty, Delegats, Iuſtices of Aſſize, <hi>Niſi Prius, Oyer</hi> and <hi>Terminer,</hi> Goal-De<g ref="char:EOLhyphen"/>livery, Iuſtices of the Peace, Commiſſioners of Sewers, Bank-rupts, or Charitable Vſes, nor any Actings, Proceſs, Proceedings, nor Ex<g ref="char:EOLhyphen"/>ecutions thereupon had, made, given, done, or ſuffered in the Kingdom of <hi>England,</hi> ſince the Firſt of <hi>May,</hi> One thouſand ſix hundred forty two, ſhall be avoided for want or defect of any Legal Pow<g ref="char:EOLhyphen"/>er in the ſaid Courts, Iudges, Commiſſioners, Iuſtices, or any of them; or for, or by reaſon that the Premiſſes, or any of them were Com<g ref="char:EOLhyphen"/>menced, Proſecuted, Had, Made, Held, or Vſed in the Name, Stile, or Title of the late King, or in the Name, Stile, Title or Teſt of <hi>Cuſto<g ref="char:EOLhyphen"/>des Libertatis Angliae Authoritate Parliamenti;</hi> Or in the Name, Stile, Title, or Teſt of the <hi>Keepers of the Liberty of <hi>England</hi> by Authority of Parliament;</hi> Or the Name, Stile, Title or Teſt of <hi>Oliver <hi>Lord Protector of the Commonwealth of</hi> England, Scotland, <hi>and</hi> Ireland, <hi>and the Dominions thereunto belonging;</hi>
+               </hi> Or of <hi>Oliver <hi>Lord Protector of the Commonwealth
+<pb n="3" facs="tcp:119750:3"/>
+                     <!-- PDF PAGE 69 -->of</hi> England, Scotland, <hi>and</hi> Ireland, <hi>and the Dominions and Territories thereunto belonging;</hi>
+               </hi> Or the Name, Stile, Title or Teſt of <hi>Richard <hi>Lord Protector of the Commonwealth of</hi> England, Scotland, <hi>and</hi> Ireland, <hi>and the Dominions and Territories thereunto belonging,</hi>
+               </hi> or for, or by reaſon of any alteration of the ſaid Names, Stiles, or Titles; Or for that the ſaid Fines, Recoveries, Proceſs, Pleadings, Proceedings, and other things before mention<g ref="char:EOLhyphen"/>ed, Or the Entry and Enrolment of them, or any of them, were in the <hi>Latine</hi> or <hi>Engliſh</hi> Tongue, But that all and every ſuch Fines, Recoveries, and other things above mentioned, and the Act<g ref="char:EOLhyphen"/>ings, Doings, and Proceedings thereupon, ſhall be of ſuch, and of no other Force, Effect and Vertue, then as if ſuch Courts, Iudges, Iu<g ref="char:EOLhyphen"/>ſtices, Commiſſioners, Officers and Miniſters, had Acted by vertue of a True, Iuſt, and Le<g ref="char:EOLhyphen"/>gal Authority, and as if the ſame, and the En<g ref="char:EOLhyphen"/>try and Enrolment thereof were in <hi>Latin,</hi> and as if the ſeveral Acts and Ordinances, or pre<g ref="char:EOLhyphen"/>tended Acts or Ordinances made by both or either Houſes of Parliament, or any Conventi<g ref="char:EOLhyphen"/>on aſſembled under the Name of a Parliament, or by <hi>Oliver Cromwell</hi> late Stiled Protector of the Commonwealth of <hi>England, Scotland,</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and the Dominions thereto belonging, and his Council Warranting or Directing ſuch pro<g ref="char:EOLhyphen"/>ceedings, had been Good, True, and Effectual Acts of Parliament.</p>
+            <p>And whereas, ſince the death of the late King, ſeveral Fines have been Levied without any Entry, or due Entring of any ſum paid <hi>pro licentia concordandi,</hi> commonly called the Kings Silver, and without Entry, or due Entry of a<g ref="char:EOLhyphen"/>ny ſum given to the Party for the Concord: And alſo whereas in the Term of <hi>S. Michael</hi> laſt paſt,
+<pb n="4" facs="tcp:119750:4"/>
+               <!-- PDF PAGE 70 -->ſeveral Fines were Levied and Recorded in the Court of Common Pleas, before One Iudge onely of the ſaid Court,</p>
+            <p>Be it Enacted, That the ſaid Fines and Pro<g ref="char:EOLhyphen"/>clamations thereupon, and every of them ſhall be good and effectual, notwithſtanding the de<g ref="char:EOLhyphen"/>fects aforeſaid.</p>
+            <p>And be it alſo further Enacted, That all Fines, Proclamations of Fines, Recoveries, and other Iudicial Proceedings in the Court of Common Pleas at <hi>Weſtminſter,</hi> ſince the death of His late Majeſty King <hi>Charls</hi> the Firſt, had, Levied, or Suffered of any Lands lying in the County Palatine of <hi>Durham,</hi> ſhall be good and effectual, notwithſtanding the ſaid Lands were lying in the ſaid County Palatine.</p>
+            <p>Provided, That this Act or any thing there<g ref="char:EOLhyphen"/>in contained, ſhall not be Conſtrued, Deemed, or Adjudged to make good, allow, confirm or countenance any the Proceedings in the late Il<g ref="char:EOLhyphen"/>legal and Vn-warranted High Courts of Iu<g ref="char:EOLhyphen"/>ſtice, or ſo called, or any of them. And whereas ſince the Firſt day of <hi>May</hi> in the year of our Lord, One thouſand ſix hundred forty one, and before the Five and twentieth day of <hi>April,</hi> in the year of our Lord One thouſand ſix hundred and ſixty, there were divers perſons that adhered to both Houſes of Parliament, who, for, or in reſpect of ſuch their adherence, were Indicted, Charged, or Impeached of Treaſon: And whereas ſince the ſaid Firſt day of <hi>May,</hi> in the year of our Lord One thouſand ſix hundred forty one, and before the ſaid Five and twentieth day of <hi>April,</hi> in the year of our Lord, One thouſand ſix hun<g ref="char:EOLhyphen"/>dred and ſixty, divers perſons who adhered to His Majeſty, or to the late King, were for ſuch their adherence Charged, Impeached, or Indict<g ref="char:EOLhyphen"/>ed of High Treaſon,</p>
+            <p>
+               <pb n="5" facs="tcp:119750:4"/>
+               <!-- PDF PAGE 70 -->
+Be it further provided and Enacted, That the ſaid Charges, Impeachments, Indictments, and all Exigents, Outlawries, Convictions, and Attainders thereupon, and all Letters Patents and Grants thereupon made, of any Mannors, Lands, Tenements or Hereditaments, Eſcheated or Forfeited by reaſon of ſuch Attainder, and all Title to any meaſn Profits by reaſon of ſuch Con<g ref="char:EOLhyphen"/>viction, Outlawry, Attainder or Grant, be from henceforth repealed and diſcharged: And that all Eſcheats, Forfeitures and Confiſcations by rea<g ref="char:EOLhyphen"/>ſon of ſuch Outlawries, Conviction or Attainder, Be and are hereby reſtored unto ſuch Perſons ſo Outlawed, Convicted or Attainted, their Heirs, Executors and Adminiſtrators reſpectively, as if no ſuch Attainder had been.</p>
+            <p>Provided Nevertheleſs, And be it Enacted, That this Act or any thing herein contained, ſhall not extend to avoid or confirm any Sales or Eſtates made by vertue or pretence of any Act, Order or Ordinance, or reputed Act, Order or Ordinance of Parliament, ſince the firſt day of <hi>May</hi> in the year of Our Lord, One thouſand ſix hundred forty two, nor any confirmation there<g ref="char:EOLhyphen"/>of made, or to be made thereof in this preſent Parliament, But that ſuch Sales ſtand and be in the ſame plight and condition as they ſhould or might have done if this Act had not been made.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That all Recognizances, Obligati<g ref="char:EOLhyphen"/>ons or other ſecurities, made or given to the Keepers of the Liberty of <hi>England</hi> by Au<g ref="char:EOLhyphen"/>thority of Parliament, Or to <hi>Oliver</hi> Lord Pro<g ref="char:EOLhyphen"/>tector of the Commonwealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions thereunto be<g ref="char:EOLhyphen"/>longing, or to <hi>Oliver</hi> Lord Protector of the
+<pb n="6" facs="tcp:119750:5"/>
+               <!-- PDF PAGE 71 -->Commonwealth of <hi>England, Scotland</hi> and <hi>Ireland,</hi> and the Dominions and Territories thereunto belonging, or to <hi>Richard</hi> Lord Protector of the Commonwealth of <hi>England, Scotland</hi> and <hi>Ireland,</hi> and the Dominions and Territories thereunto belonging, and not pardoned, or diſcharged by any Act paſſed or to be paſſed this preſent Par<g ref="char:EOLhyphen"/>liament, or otherwiſe, other then ſuch Recog<g ref="char:EOLhyphen"/>nizances, Obligations and Securities as have been made or given (to any the pretended powers or perſons aforeſaid, or to any deriving or pre<g ref="char:EOLhyphen"/>tending to derive Authority from them) by any perſon or perſons, for or by reaſon of their ad<g ref="char:EOLhyphen"/>herence to His Majeſty, or His ſaid late Royal Father, or relating to, or ariſing only upon or in reſpect of the late troubles, All which are hereby declared to be void, and to be delivered up to be Cancelled, And all Iudgements, Ex<g ref="char:EOLhyphen"/>tents, Inquiſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions, Executions and Seizures had for the ſaid Keepers or Protectors, or any of them, and not likewiſe pardoned or diſcharged, other then as aforeſaid, ſhall and may be had and proſecuted in the name and to the uſe of His Majeſty, His Heirs or Succeſſors; &amp; alſo except<g ref="char:EOLhyphen"/>ing all Obligations, Bonds, or Recognizances entred into to the ſaid Keepers or Protectors, or any of them, by any Perſon or Perſons, by Order, or direction of any Council of State, Committee of Safety, Major Generals, Decimators, or any Officer or other Perſon under them, or any other Military power, all which Obligations, Bonds and Recognizances are hereby diſ<g ref="char:EOLhyphen"/>charged and declared to be null and void, to all intents and purpoſes.</p>
+            <p>Provided alſo, And be it Enacted, That this Act nor any thing therein contained, ſhall not extend to continue after the eight day of <hi>May</hi>
+               <pb n="7" facs="tcp:119750:5"/>
+               <!-- PDF PAGE 71 -->in the year of Our Lord One thouſand ſix hun<g ref="char:EOLhyphen"/>dred and ſixty, any Iuſtice or Iuſtices of one Bench or the other, or Barons of the Exchequer, Serjeants at Law, Commiſſions of Sewers, Commiſſions of Bank-rupts or of Charitable uſes, made or conſtituted, by or in the name or ſtile of any the late pretended powers or Autho<g ref="char:EOLhyphen"/>rities.</p>
+            <p>Provided always, That it ſhall and may be Lawful to and for every Perſon and Perſons, who ſhall finde themſelves grieved or damnified by any Iudgement, Fine, Recovery, Decree or Sentence given, made, levied, granted, or pro<g ref="char:EOLhyphen"/>nounced in any of the ſaid Courts, to proceed in due form of Law, either by Writ of Error, Bill of Review, Appeal, or other Lawful remedy, for the Reverſing, Annulling or Revoking of the ſame, in ſuch manner as they might at any time heretofore have done, if the ſaid Courts had been Eſtabliſhed by Lawfull Authority, other then for thoſe Errors and defects which are remedied or provided for by this Act.</p>
+            <p>Provided alwaies, And be it further Enacted by the Authority aforeſaid, That no Non-claim upon or after any Fine or Fines hereby made good or confirmed, ſhall extend, or be conſtrued to Bar or Prejudice any Perſon or Perſons, their Heirs or Succeſſors, or their Feoffees or Truſtees (other then the parties to the ſaid Fines and their Heirs general and ſpecial, and his and their Truſtees) as concerning ſuch Right Claim and Intereſt, as they had in or to any Lands, Tenements or other Heredita<g ref="char:EOLhyphen"/>ments, which by colour of any Act, Order or Or<g ref="char:EOLhyphen"/>dinance of both or either Houſes of Parliament, or any Convention ſitting at <hi>Weſtminſter,</hi> under the name or ſtile, or aſſuming the name or ſtile
+<pb n="8" facs="tcp:119750:6"/>
+               <!-- PDF PAGE 72 -->of a Parliament, ſince the firſt day of <hi>May</hi> in the year of Our Lord One thouſand ſix hundred forty and two, and before the five and twentieth day of <hi>April,</hi> in the year of our Lord one thouſand ſix hundred and ſixty, were ſold, conveyed or diſpo<g ref="char:EOLhyphen"/>ſed, as then, or late the Lands, Tenements, and Hereditaments of the King, Queen or Prince, or of Archbiſhops, Biſhops, Deans, Deans and Chapters, or other Eccleſiaſtical perſons, or as the Lands, Tenements, and Hereditaments of any other perſons, for their Adherency to the late King, or His Majeſty that now is, or for any their Actings relating to, or in reſpect of the late Troubles, ſo always that the ſaid perſon or perſons aforeſaid, their Heirs or Succeſſors, purſue their Title, Claim, or Intereſt, by way of Action or lawful Entry, within Five years next after the Nine and twentieth day of <hi>May,</hi> in the year of our Lord One thouſand ſix hun<g ref="char:EOLhyphen"/>dred and ſixty.</p>
+            <p>And although in this Confirmation of Iudi<g ref="char:EOLhyphen"/>cial Proceedings, it was neceſſary to mention divers pretenſed Acts and Ordinances, by the Names and Stiles which thoſe perſons then Vſurped, who took upon them to paſs the ſame, Namely, ſome by the Stile and Name of the Keepers of the Liberty of <hi>England</hi> by Authority of Parliament, and others by the Name and Stile of Protectors of the Commonwealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions and Territories thereunto belonging; Yet this preſent Parliament doth Declare, and it is E<g ref="char:EOLhyphen"/>nacted by Authority of the ſame, That the Names and Stiles aforeſaid, and every of them, are moſt Rebellious, Wicked, Trayterous, and Abominable Vſurpations, Deteſted by this pre<g ref="char:EOLhyphen"/>ſent Parliament, as oppoſite in the higheſt De<g ref="char:EOLhyphen"/>gree
+<pb n="9" facs="tcp:119750:6"/>
+               <!-- PDF PAGE 72 -->to His Sacred Majeſties moſt Iuſt and Vndoubted Right, to whom, and to His Heirs and Lawful Succeſſors, the Imperial Crowns of the Realms of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> with their, and every of their Dominions and Territories do of Right appertain, and as Violating and Infringing the Iuſt Rights and Priviledges of Parliament, and of both Houſes thereof now Aſſembled, or that hereafter ſhall be Called and Aſſembled.</p>
+            <p>Provided always, and be it Enacted, That all and every pretended Indictment or Indict<g ref="char:EOLhyphen"/>ments, Out-laws, Inquiſitions, and all Pro<g ref="char:EOLhyphen"/>ceedings thereon of High Treaſon againſt any perſon or perſons whatſoever, for Levying War againſt the late Tyrant <hi>Oliver Cromwel,</hi> the pre<g ref="char:EOLhyphen"/>tended Keepers of the Liberty of <hi>England,</hi> or any other Vſurped Power, ſhall be from henceforth void and of none effect in Law. And that all Grants, Conveyances, Leaſes, Devices, Aſſu<g ref="char:EOLhyphen"/>rances, Statutes, Recognizances, and Iudge<g ref="char:EOLhyphen"/>ments for Debt, Damages heretofore Had, Made, or Suffered by any perſon, or his Heirs, whoſe Conviction, Vtlagary, or Attainder is by this Act diſcharged or made void, ſhall be of the ſame Force and Effect, as if no ſuch Con<g ref="char:EOLhyphen"/>viction, Out-lawry, or Attainder had been.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>John Bill</hi> and <hi>Chriſtopher Barker,</hi> Printers to the Kings moſt Excellent Majeſty. 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
